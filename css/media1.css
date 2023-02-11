@@ -1,0 +1,108 @@
+@media  screen and (max-width:1230px){
+    .menu li a, .cartul li a{
+        padding: 6px 8px !important;
+    }
+    .bottom{
+        padding: 6px 0px;
+    }
+}
+/*----------------------------------------------------------*/
+@media  screen and (max-width:1265px){
+
+}
+/*------------------------------------------------------------*/
+@media  screen and (max-width:990px){
+nav{
+    display: none;
+}
+.cart{
+    display: none;
+    }
+.media5{
+    display: block;
+    font-size: 30px;
+    color: rgba(0,0,0,.5);
+    border-color: rgba(0,0,0,.1);
+    border: 2px solid rgba(0,0,0,.1);
+    border-radius: 0.25rem;
+    width: 70px;
+    text-align: center;
+    /* height: 42px; */
+    padding: 5px 4px;
+}
+.buynow{
+    width:20% !important;
+}
+.market-logo {
+    width: 30%;
+}
+}
+/*------------------------------------------------------------*/
+@media  screen and (max-width:770px){
+    .pro1 ,.pro2{
+        width:100%;
+    }
+    .pro2{
+        margin-top: 20px;
+    }
+    .diffrent{
+        margin-top: 389px;
+    }
+    .position{
+        width:100% !important;
+
+    }
+    .disappeara img{
+        width: 100% !important;
+    }
+    .girl{
+        width:100%;
+    }
+    .boy{
+        width:100%;
+        margin-top: 40px;
+    }
+    .sercenter div {
+        width:100%;
+    }
+    .casual1 ul li a img{
+        width:100%;
+    }
+    .insta a{
+        width:33% !important;
+        
+    }
+    .none{
+        display: none;
+    }
+    .helpul{
+        width:50%;
+    }
+    .logo-shutter1{
+        width:100% !important;
+    }
+    .footer2 div{
+        width:100%;
+    }
+    .copyright1 div{
+        width:100%;
+    }
+    .two2ul{
+        justify-content: center;
+    }
+    .copy1{
+        text-align: center;
+    }
+    
+}
+@media screen and (max-width:1118px){
+    .two2{
+    width: 45%;
+    }
+}
+@media screen and (max-width:480px){
+   .buynow a{
+
+padding: 2px 8px;
+   }
+}
